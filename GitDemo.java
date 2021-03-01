@@ -58,7 +58,7 @@ public class GitDemo {
         return factorialNumber;
 
         //Sets 'reverseNum' equal to 'newNumber'
-        reverseNum = factorialNumber;
+        reverseNum = newNumber;
         
         return newNumber;
     }
